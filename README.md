@@ -4,6 +4,8 @@ A lightweight and minimal Cinnamon panel applet that allows you to control music
 
 This applet uses the **MPRIS (Media Player Remote Interfacing Specification)** standard, which means it works with most modern Linux media players and web browsers.
 
+![MusicReproductor](https://i.imgur.com/orXTDpO.png)
+
 ---
 
 ## ✨ Features
